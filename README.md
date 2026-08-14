@@ -29,6 +29,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yakin1230/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/yakin1230/Leetcode/tree/master/0020-valid-parentheses) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yakin1230/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,5 +50,10 @@
 ## Hash Table
 |  |
 | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yakin1230/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/yakin1230/Leetcode/tree/master/3731-find-missing-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/yakin1230/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
