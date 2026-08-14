@@ -9,11 +9,13 @@
 | [0342-power-of-four](https://github.com/yakin1230/Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/yakin1230/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yakin1230/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2681-power-of-heroes](https://github.com/yakin1230/Leetcode/tree/master/2681-power-of-heroes) |
 | [3536-maximum-product-of-two-digits](https://github.com/yakin1230/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/yakin1230/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2681-power-of-heroes](https://github.com/yakin1230/Leetcode/tree/master/2681-power-of-heroes) |
 | [3536-maximum-product-of-two-digits](https://github.com/yakin1230/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/yakin1230/Leetcode/tree/master/3731-find-missing-elements) |
 ## Array
@@ -21,6 +23,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/yakin1230/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yakin1230/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2681-power-of-heroes](https://github.com/yakin1230/Leetcode/tree/master/2681-power-of-heroes) |
 | [3731-find-missing-elements](https://github.com/yakin1230/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -37,6 +40,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yakin1230/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/yakin1230/Leetcode/tree/master/0486-predict-the-winner) |
+| [2681-power-of-heroes](https://github.com/yakin1230/Leetcode/tree/master/2681-power-of-heroes) |
 ## Stack
 |  |
 | ------- |
@@ -64,4 +68,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/yakin1230/Leetcode/tree/master/0342-power-of-four) |
+## Prefix Sum
+|  |
+| ------- |
+| [2681-power-of-heroes](https://github.com/yakin1230/Leetcode/tree/master/2681-power-of-heroes) |
 <!---LeetCode Topics End-->
