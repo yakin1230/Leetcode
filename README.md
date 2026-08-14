@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yakin1230/Leetcode/tree/master/0009-palindrome-number) |
+| [0342-power-of-four](https://github.com/yakin1230/Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/yakin1230/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yakin1230/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/yakin1230/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -42,6 +43,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/yakin1230/Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/yakin1230/Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yakin1230/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/yakin1230/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
