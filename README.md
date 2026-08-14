@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yakin1230/Leetcode/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/yakin1230/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yakin1230/Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/yakin1230/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yakin1230/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -43,6 +44,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/yakin1230/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yakin1230/Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/yakin1230/Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
