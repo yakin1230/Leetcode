@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/yakin1230/Leetcode/tree/master/0027-remove-element) |
 | [0486-predict-the-winner](https://github.com/yakin1230/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yakin1230/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2681-power-of-heroes](https://github.com/yakin1230/Leetcode/tree/master/2681-power-of-heroes) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yakin1230/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/yakin1230/Leetcode/tree/master/0027-remove-element) |
 ## String
 |  |
 | ------- |
