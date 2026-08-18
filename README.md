@@ -25,6 +25,7 @@
 | [0486-predict-the-winner](https://github.com/yakin1230/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yakin1230/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2681-power-of-heroes](https://github.com/yakin1230/Leetcode/tree/master/2681-power-of-heroes) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/yakin1230/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/yakin1230/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yakin1230/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/yakin1230/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/yakin1230/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
