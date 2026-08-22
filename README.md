@@ -11,6 +11,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/yakin1230/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2681-power-of-heroes](https://github.com/yakin1230/Leetcode/tree/master/2681-power-of-heroes) |
 | [3536-maximum-product-of-two-digits](https://github.com/yakin1230/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yakin1230/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
 |  |
 | ------- |
