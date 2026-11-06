@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yakin1230/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/yakin1230/Leetcode/tree/master/0027-remove-element) |
 | [0486-predict-the-winner](https://github.com/yakin1230/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yakin1230/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -85,9 +86,14 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yakin1230/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yakin1230/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yakin1230/Leetcode/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yakin1230/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
