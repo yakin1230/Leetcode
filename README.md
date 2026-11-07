@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yakin1230/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/yakin1230/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yakin1230/Leetcode/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/yakin1230/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yakin1230/Leetcode/tree/master/0342-power-of-four) |
