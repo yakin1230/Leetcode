@@ -27,6 +27,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yakin1230/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/yakin1230/Leetcode/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yakin1230/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/yakin1230/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yakin1230/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yakin1230/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yakin1230/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yakin1230/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/yakin1230/Leetcode/tree/master/0486-predict-the-winner) |
 | [2681-power-of-heroes](https://github.com/yakin1230/Leetcode/tree/master/2681-power-of-heroes) |
 ## Stack
