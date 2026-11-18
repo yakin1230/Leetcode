@@ -52,6 +52,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/yakin1230/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yakin1230/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/yakin1230/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/yakin1230/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yakin1230/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
