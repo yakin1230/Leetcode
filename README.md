@@ -42,6 +42,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yakin1230/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yakin1230/Leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/yakin1230/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/yakin1230/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yakin1230/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yakin1230/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
@@ -50,6 +51,7 @@
 | [0005-longest-palindromic-substring](https://github.com/yakin1230/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/yakin1230/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/yakin1230/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/yakin1230/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yakin1230/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/yakin1230/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/yakin1230/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
